@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/API2/v16/.suo
+/.vs/API2/v16
+/.vs
+/.vscode/tasks.json
+/.vscode/launch.json
+/.vscode
+/src/.vs

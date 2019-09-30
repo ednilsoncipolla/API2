@@ -1,0 +1,13 @@
+C:\API2\src\Api.CrossCutting\bin\Debug\netcoreapp2.1\CrossCutting.deps.json
+C:\API2\src\Api.CrossCutting\bin\Debug\netcoreapp2.1\CrossCutting.dll
+C:\API2\src\Api.CrossCutting\bin\Debug\netcoreapp2.1\CrossCutting.pdb
+C:\API2\src\Api.CrossCutting\obj\Debug\netcoreapp2.1\CrossCutting.csprojAssemblyReference.cache
+C:\API2\src\Api.CrossCutting\obj\Debug\netcoreapp2.1\CrossCutting.AssemblyInfoInputs.cache
+C:\API2\src\Api.CrossCutting\obj\Debug\netcoreapp2.1\CrossCutting.AssemblyInfo.cs
+C:\API2\src\Api.CrossCutting\obj\Debug\netcoreapp2.1\CrossCutting.dll
+C:\API2\src\Api.CrossCutting\obj\Debug\netcoreapp2.1\CrossCutting.pdb
+C:\API2\src\Api.CrossCutting\bin\Debug\netcoreapp2.1\Domain.dll
+C:\API2\src\Api.CrossCutting\bin\Debug\netcoreapp2.1\Services.dll
+C:\API2\src\Api.CrossCutting\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\API2\src\Api.CrossCutting\bin\Debug\netcoreapp2.1\Services.pdb
+C:\API2\src\Api.CrossCutting\obj\Debug\netcoreapp2.1\CrossCutting.csproj.CopyComplete
