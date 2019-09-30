@@ -1,5 +1,6 @@
 ﻿using Domain.Interfaces;
 using System;
+using System.Threading;
 using System.Threading.Tasks;
 
 /// <summary>
@@ -19,6 +20,7 @@ public class CalculaJurosService : ICalculaJurosService
         try
         {
             _taxaJurosService.Get();
+            Thread.Sleep(1000);
             double idc = _taxaJurosService.GetIdc();
             double ValorFinal = valorInical * Math.Pow(1 + idc, meses); ;
             return (Math.Truncate(ValorFinal * 100) / 100);
