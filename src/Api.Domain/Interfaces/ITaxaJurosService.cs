@@ -7,7 +7,7 @@ namespace Domain.Interfaces
 {
     public interface ITaxaJurosService
     {
-        void Get();
+        Task Get();
         double GetIdc();
     }
 }

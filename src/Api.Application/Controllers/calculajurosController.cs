@@ -33,7 +33,9 @@ namespace Api.Application.Controllers
 
             try
             {
-                return Ok( _CalculaJurosService.Get(valorInicial, meses));
+                Task<double> Calc = _CalculaJurosService.Get(valorInicial, meses);
+                Calc.Wait();
+                return Ok( Calc.Result.ToString());
             }
             catch (ArgumentException e)
             {

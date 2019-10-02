@@ -1,0 +1,13 @@
+C:\API2\src\Api.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\API2\src\Api.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\API2\src\Api.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\API2\src\Api.Tests\bin\Debug\netcoreapp2.0\Api.Tests.deps.json
+C:\API2\src\Api.Tests\bin\Debug\netcoreapp2.0\Api.Tests.runtimeconfig.json
+C:\API2\src\Api.Tests\bin\Debug\netcoreapp2.0\Api.Tests.runtimeconfig.dev.json
+C:\API2\src\Api.Tests\bin\Debug\netcoreapp2.0\Api.Tests.dll
+C:\API2\src\Api.Tests\bin\Debug\netcoreapp2.0\Api.Tests.pdb
+C:\API2\src\Api.Tests\obj\Debug\netcoreapp2.0\Api.Tests.fsprojAssemblyReference.cache
+C:\API2\src\Api.Tests\obj\Debug\netcoreapp2.0\Api.Tests.AssemblyInfoInputs.cache
+C:\API2\src\Api.Tests\obj\Debug\netcoreapp2.0\Api.Tests.AssemblyInfo.fs
+C:\API2\src\Api.Tests\obj\Debug\netcoreapp2.0\Api.Tests.dll
+C:\API2\src\Api.Tests\obj\Debug\netcoreapp2.0\Api.Tests.pdb

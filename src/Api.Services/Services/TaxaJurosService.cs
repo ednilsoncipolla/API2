@@ -18,7 +18,7 @@ namespace Services.Services
             _TaxaJuros = taxaJuros;
         }
 
-        public async void Get()
+        public async Task Get()
         {
             using (var client = new HttpClient())
             {

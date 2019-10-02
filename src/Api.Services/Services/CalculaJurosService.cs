@@ -15,12 +15,11 @@ public class CalculaJurosService : ICalculaJurosService
         _taxaJurosService = taxaJurosService;
     }
 
-    public double Get(double valorInical, int meses)
+    public async Task<double> Get(double valorInical, int meses)
     {
         try
         {
-            _taxaJurosService.Get();
-            Thread.Sleep(1000);
+            await _taxaJurosService.Get();
             double idc = _taxaJurosService.GetIdc();
             double ValorFinal = valorInical * Math.Pow(1 + idc, meses); ;
             return (Math.Truncate(ValorFinal * 100) / 100);
@@ -28,8 +27,6 @@ public class CalculaJurosService : ICalculaJurosService
         catch (Exception e)
         {
             throw new Exception($"Erro calculando Valor atualizado, {e.Message}");
-            
         }
-        throw new NotImplementedException();
     }
 }
