@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Api.Application.Controllers
 {
-    [Route("[controller]/{valorInicial}/{meses}")]
+    [Route("[controller]")]
     [ApiController]
     public class calculajurosController : ControllerBase
     {
